@@ -7,4 +7,5 @@
 # gitlab/gitlab-ce-qa:16.11.10
 # langgenius/dify-web:0.15.3
 # langgenius/dify-api:0.15.3
-langgenius/dify-plugin-daemon:0.0.2-local
+# langgenius/dify-plugin-daemon:0.0.2-local
+nginx:latest
