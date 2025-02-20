@@ -5,7 +5,5 @@
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 # gitlab/gitlab-ce-qa:16.11.10
-mongo:4.0
-neo4j
-diygod/rsshub
-
+langgenius/dify-web:0.15.3
+langgenius/dify-api:0.15.3
