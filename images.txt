@@ -9,9 +9,11 @@
 # langgenius/dify-api:0.15.3
 # langgenius/dify-plugin-daemon:0.0.2-local
 # nginx:latest
-postgres:15-alpine
-redis:6-alpine
-langgenius/dify-sandbox:0.2.10
-ubuntu/squid:latest
-certbot/certbot
-semitechnologies/weaviate:1.19.0
+# DIFY
+# postgres:15-alpine
+# redis:6-alpine
+# langgenius/dify-sandbox:0.2.10
+# ubuntu/squid:latest
+# certbot/certbot
+# semitechnologies/weaviate:1.19.0
+node:21     
